@@ -3,6 +3,7 @@ def main():
     print("Hello Helix!")
     print("cool")
     print("Cooler!")
+    print("Cooler2!")
 
 
 if __name__ == "__main__":
